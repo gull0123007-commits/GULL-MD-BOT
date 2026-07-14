@@ -1,0 +1,14 @@
+{
+  "name": "gull-khan-md-pair",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot pairing system for educational testing",
+  "main": "api/code.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^9.0.0",
+    "link-preview-js": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

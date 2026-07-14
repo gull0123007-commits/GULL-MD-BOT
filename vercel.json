@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "publics": [],
   "rewrites": [
     { "source": "/api/code", "destination": "/api/code.js" },
     { "source": "/(.*)", "destination": "/$1" }

@@ -9,6 +9,6 @@
     "link-preview-js": "^3.0.0"
   },
   "engines": {
-    "node": "24.x"
+    "node": "20.x"
   }
 }
